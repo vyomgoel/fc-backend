@@ -1,0 +1,1 @@
+A schema is a formal representation of data, data types, allowable values, default values, required values, etc. 
