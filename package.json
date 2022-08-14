@@ -1,7 +1,7 @@
 {
-  "name": "-backhand",
+  "name": "fc_backend",
   "version": "1.0.0",
-  "description": "FlahChat - Chat and crete FlashCards together",
+  "description": "FlahChat - Chat and Create FlashCards together",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
